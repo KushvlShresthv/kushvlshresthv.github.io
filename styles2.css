@@ -1,0 +1,100 @@
+body {
+  margin: 20px;
+  color: #2b2839;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: #cbcded
+}
+
+.kushal-img {
+	width:25%;
+	height: 25%;
+	border-radius:100%;
+	border: 1px solid blue;
+	margin-right:auto;
+}
+
+.main {
+	display: flex;
+}
+
+
+.intro {
+  
+  padding:20px 25px;
+  width: 70%;
+  max-width:70%;
+  border: 1px solid #a0cbfe;
+  background: #ddebf8;
+
+}
+
+.heading {
+	margin: 10px;
+}
+
+
+.education_skills {
+	margin: 40px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.education {
+	padding:20px 25px;
+	 border: 1px solid #a0cbfe;
+ 	 background: #ddebf8;
+ 	 width:60%;
+ 	 margin-right:20px;
+}
+
+.skills {
+	border: 1px solid #a0cbfe;
+  	background: #ddebf8;
+  	width:35% 	
+}
+
+table {
+	
+	padding:10px;
+	border-collaps: collaps;
+	border-spacing: 0;
+}
+
+th, td {
+    border: 1px solid black;
+  }
+  
+  td {
+    width: 20vw; 
+  }
+
+.ending{
+	border: 1px solid #a0cbfe;
+ 	background: #ddebf8;
+ 	padding: 20px 25px;
+}
+
+
+.btn {
+	font-family:serif;
+	margin-top: 30px;
+	border: 1px solid #a0cbfe;
+ 	background: #ddebf8;
+	border-radius: 5px;
+	padding-left: 9px;
+	padding-right: 9px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-size: 20px;
+	font-weight: normal;
+	margin-right:5px;
+	margin-left: 5px;
+} 
+
+
+.btn-wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+
